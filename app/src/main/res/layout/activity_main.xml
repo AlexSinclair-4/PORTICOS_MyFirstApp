@@ -15,7 +15,7 @@
         app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/TransPride"
+        app:srcCompat="@drawable/transpride"
         android:contentDescription="@string/todo" />
 
     <Button
